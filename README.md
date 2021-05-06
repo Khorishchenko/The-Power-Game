@@ -11,6 +11,6 @@ Developers:
   Lesay. 
   Oleksiy. 
   Danil. 
-  Sergei Khorishchenko.
+  Sergei.
 
 
